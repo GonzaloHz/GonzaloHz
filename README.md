@@ -19,4 +19,5 @@ Do you want to talk?
 
 
 email: gonzalo.hernandez1@hotmail.com
+
 linkedin: https://www.linkedin.com/in/gonzalo-hernandez-8161b9237/
