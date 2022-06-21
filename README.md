@@ -13,6 +13,10 @@ Full Stack Developer ❤️ from Argentina to 🌎
 ![](github%20stuffs/giphy.gif)
 
 Do you want to talk?
+
+
 -I will be delighted to have a conversation with you
+
+
 email: gonzalo.hernandez1@hotmail.com
 linkedin: https://www.linkedin.com/in/gonzalo-hernandez-8161b9237/
